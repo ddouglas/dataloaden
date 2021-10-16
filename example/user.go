@@ -1,4 +1,4 @@
-//go:generate go run github.com/vektah/dataloaden UserLoader string *github.com/vektah/dataloaden/example.User
+//go:generate go run github.com/ddouglas/dataloaden UserLoader string *github.com/ddouglas/dataloaden/example.User
 
 package example
 
